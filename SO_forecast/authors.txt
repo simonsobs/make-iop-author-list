@@ -32,7 +32,6 @@ Paolo~Calisse    ucsd
 Julien~Carron    sussex
 Anthony~Challinor    cambridge
 Grace~Chesmore    michigan
-Yuji~Chinone    utokyo
 Yuji~Chinone    ucb
 Jens~Chluba    manchester
 Hsiao-Mei~Sherry~Cho    slac
@@ -46,8 +45,6 @@ Kevin~Coughlin    michigan
 Will~Coulton    princeton_astro
 Kevin~Crowley    princeton_physics
 Ari~Cukierman    ucb
-Spergel~David    cca,princeton_astro
-Tijmen~de~Haan    utokyo
 Tijmen~de~Haan    ucb
 Mark~Devlin    upenn
 Simon~Dicker    upenn
@@ -60,14 +57,12 @@ Jo~Dunkley    princeton_physics
 Rolando~Dünner-Panella    puc
 John~Dusatko    slac
 Josquin~Errard    apc
-Eunseong~Lee    manchester
 Giulio~Fabbian    ias_france
 Stephen~Feeney    cca
 Simone~Ferraro    ucb
 Raphael~Flauger    ucsd
 Pedro~Fluxá    puc
-Katie~Freese    michigan
-Katie~Freese    stockholm
+Katie~Freese    michigan,stockholm
 Josef~Frisch    slac
 Andrei~Frolov    sfu
 George~Fuller    ucsd
@@ -99,7 +94,6 @@ Masashi~Hazumi    kek,utokyo
 Yizhou~He    cmu
 Shawn~Henderson    slac
 Carlos~Hervias-Caimapo    manchester
-Charlie~Hill    lbnl
 Charlie~Hill    ucb
 J.~Colin~Hill    cca
 Gene~Hilton    nist
@@ -135,6 +129,7 @@ Stephen~Kuenstner    slac
 Chao-Lin~Kuo    slac
 Jack~Lashner    usc
 Adrian~Lee    ucb,lbnl
+Eunseong~Lee    manchester
 David~Leon    ucsd
 Jason~Leung    dunlap,toronto,cita
 Antony~Lewis    sussex 
@@ -188,13 +183,12 @@ Christian~Reichardt    melbourne
 Mathieu~Remazeilles    manchester
 Yoel~Rephaeli    telaviv
 Dominik~Riechers    cornell
-Naomi~Robertson   princeton_physics
+Naomi~Robertson    princeton_physics
 Felipe~Rojas    puc
 Anirban~Roy    sissa
 Sharon~Sadeh    telaviv
 Yuki~Sakurai    ipmu
 Maria~Salatino    apc
-Emmanuel~Schaan    lbnl
 Emmanuel~Schaan    ucb
 Marcel~Schmittful    princeton_physics
 Neelima~Sehgal    stonybrook 
@@ -211,6 +205,7 @@ Sara~Simon    michigan
 Adrian~Sinclair    asu
 Praween~Siritanasak    ucsd
 Steve~Smith    slac
+David~Spergel    cca,princeton_astro
 Suzanne~Staggs    princeton_physics
 George~Stein    cita,toronto
 Jason~Stevens    cornell
